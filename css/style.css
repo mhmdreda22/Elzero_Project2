@@ -1,0 +1,61 @@
+.navbar{
+    box-shadow: 0 2px 5px ;
+    background-color: #000000;
+    color: white;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-weight: 300;
+    margin-left: 20px;
+}
+
+nav img{
+    width: 50px;
+}
+
+header{
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7))
+    ,url(../images/background.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+header img{
+    width: 400px;
+    margin-top: 120px;
+}
+
+.mhmd{
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7))
+    ,url(../images/background2.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+
+.mhmd img{
+    width: 600px;
+    margin-top: 120px;
+}
+
+#classes{
+    background-color: rgba(0, 0, 0, 0.87);
+}
+
+#classes img{
+    margin-top: -70px; margin-bottom: 20px;
+}
+
+.ahmed{
+    background-color: rgb(0, 0, 0);
+}
+
+#contact{
+    background-color: rgba(0, 0, 0, 0.87);
+}
+
+footer{
+    background-color: rgb(0, 0, 0);
+}
